@@ -1,7 +1,7 @@
 # Testing Platform
 
 個人技術實驗場 — Python、VBA 及其他。
-
+確定穩定才實裝到 Claude Workspace
 ---
 
 ## 快速開始
