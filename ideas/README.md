@@ -6,4 +6,5 @@
 
 | 日期 | 標題 | 狀態 |
 |------|------|------|
-| — | 目前空白，等第一個想法 | — |
+| 2026-05-22 | [眼科計劃 meeting-minutes skill 開發結案](./2026-05-22-眼科計劃-meeting-minutes-skill開發結案.md) | 結案 |
+| 2026-05-21 | [工具開發 project-summary skill 設計](./2026-05-21-工具開發-project-summary-skill設計.md) | 進行中 |
